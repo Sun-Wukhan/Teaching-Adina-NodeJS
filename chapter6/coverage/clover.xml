@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1684642528395" clover="3.2.0">
+  <project timestamp="1684642528395" name="All files">
+    <metrics statements="20" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="1" elements="27" coveredelements="14" complexity="0" loc="20" ncloc="20" packages="1" files="2" classes="2"/>
+    <file name="Server.js" path="/Users/navid/Documents/Dev/Node/hello-world/chapter6/test-requests/Server.js">
+      <metrics statements="18" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/Users/navid/Documents/Dev/Node/hello-world/chapter6/test-requests/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

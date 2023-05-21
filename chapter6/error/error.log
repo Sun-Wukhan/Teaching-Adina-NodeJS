@@ -1,0 +1,9 @@
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/3432'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/34323'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/34323'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/343232'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/3432324'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/NAIIIIIIVID'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/NAIIIIIIVID'"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open './data/navid'"}
+{"level":"error","message":"SyntaxError: Expected ',' or '}' after property value in JSON at position 41\n    at JSON.parse (<anonymous>)\n    at parse (/Users/navid/Documents/Dev/Node/hello-world/chapter6/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/navid/Documents/Dev/Node/hello-world/chapter6/node_modules/body-parser/lib/read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (/Users/navid/Documents/Dev/Node/hello-world/chapter6/node_modules/raw-body/index.js:231:16)\n    at done (/Users/navid/Documents/Dev/Node/hello-world/chapter6/node_modules/raw-body/index.js:220:7)\n    at IncomingMessage.onEnd (/Users/navid/Documents/Dev/Node/hello-world/chapter6/node_modules/raw-body/index.js:280:7)\n    at IncomingMessage.emit (node:events:511:28)\n    at endReadableNT (node:internal/streams/readable:1367:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"}
